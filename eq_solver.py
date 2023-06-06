@@ -1,3 +1,6 @@
+# copyright anurag kumawat
+# @anuragk16
+
 from tkinter import messagebox
 
 def eq_solver(eq_string = str()):
